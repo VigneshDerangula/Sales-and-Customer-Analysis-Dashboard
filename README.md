@@ -3,6 +3,9 @@ This user story outlines the specifications for building two dashboards using ta
 
 # **Sales Dashboard**  
 
+![image](https://github.com/user-attachments/assets/1bf17cb4-c6eb-4224-a3b9-e2775420468d)
+
+
 ## **Overview**  
 The **Sales Dashboard** provides a comprehensive view of key sales performance metrics for the current year (2023) compared to the previous year (2022). It enables stakeholders to analyze trends, compare product subcategory performance, and assess weekly sales and profit variations. This dashboard supports decision-making by highlighting high-performing and underperforming areas in sales.  
 
@@ -43,6 +46,9 @@ Here’s a detailed overview of the **Customer Dashboard** that you can include 
 ---
 
 # **Customer Dashboard**
+
+![image](https://github.com/user-attachments/assets/20fe7ae1-ec18-40a4-a1b8-be6a32843b34)
+
 
 ## **Overview**
 The **Customer Dashboard** provides actionable insights into customer performance and behavior for the current year (2023) compared to the previous year (2022). It enables marketing teams and management to analyze customer engagement, identify high-value customers, and track order trends to improve customer satisfaction and loyalty.
