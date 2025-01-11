@@ -48,7 +48,8 @@ Here’s a detailed overview of the **Customer Dashboard** that you can include 
 
 # **Customer Dashboard**
 
-![image](https://github.com/user-attachments/assets/20fe7ae1-ec18-40a4-a1b8-be6a32843b34)
+![image](https://github.com/user-attachments/assets/5a940c3e-a7da-40fe-9b13-5e8e58c6e1be)
+
 
 
 ## **Overview**
