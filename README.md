@@ -3,7 +3,8 @@ This user story outlines the specifications for building two dashboards using ta
 
 # **Sales Dashboard**  
 
-![image](https://github.com/user-attachments/assets/1bf17cb4-c6eb-4224-a3b9-e2775420468d)
+![image](https://github.com/user-attachments/assets/4716bee3-eba8-4d89-ad8d-01c58d00f25c)
+
 
 
 ## **Overview**  
