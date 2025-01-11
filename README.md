@@ -1,8 +1,9 @@
 # Sales-and-Customer-Analysis-Dashboard
 This user story outlines the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers. 
 
-Sales & Customer Performance Dashboards
-Sales Dashboard
+# Sales & Customer Performance Dashboards
+
+# **Sales Dashboard**
 Dashboard Purpose
 The purpose of the sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
 
