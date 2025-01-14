@@ -42,10 +42,6 @@ The dashboard is designed to provide a year-over-year sales analysis, helping st
 - Understand weekly variations in sales and profit to focus on operational improvements.  
 
 
-Here’s a detailed overview of the **Customer Dashboard** that you can include in your README:
-
----
-
 # **Customer Dashboard**
 
 ![image](https://github.com/user-attachments/assets/5a940c3e-a7da-40fe-9b13-5e8e58c6e1be)
